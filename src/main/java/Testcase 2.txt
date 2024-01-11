@@ -1,0 +1,13 @@
+{
+int f = -4;
+float temp = (53 * 22) / f++;
+while (1){
+        if( f - 5 > 2 * temp ){
+            break;
+        }
+        else if( f == 5 ){
+            continue;
+            }
+        f++;
+    }
+}

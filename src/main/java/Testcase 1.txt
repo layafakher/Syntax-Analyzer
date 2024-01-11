@@ -1,0 +1,10 @@
+{
+int a = 5;
+int b = 3;
+for( b = 0; b < 20 ; a++){
+	a++;
+}
+float c = a / b * 3;
+a = !b;
+boolean x = false;
+}
